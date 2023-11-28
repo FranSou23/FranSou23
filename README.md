@@ -1,26 +1,12 @@
- # Francislene Menezes de Souza
- ![alt text](fran-image.png)
- ### francislenefms@gmail.com.br - (19)99446-8547
- #### Endereço: Rua João Missio nº 453 
- #### Bairro: Campo Limpo - Americana SP
+<h1 align="center">oi 👋 , meu nome é Francislene Menezes de Souza</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=fransou23&label=Profile%20views&color=0e75b6&style=flat" alt="fransou23" /> </p><h3 align="left">Connect with me:</h3>
 
- > "Em algum lugar, algo inchrivel está esperando para ser descoberto." - Carls Sagan
 
-### Objetivo: Dev Front-End
 
-## Escolaridade
-- Pacote Officer completo
-- Tecnico em Informatica, Senac Americana[2023-2025]
+<p align="left">
+<a href="https://linkedin.com/in/francislene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francislene" height="30" width="40" /></a>
+<a href="https://fb.com/fransouza" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fransouza" height="30" width="40" /></a><a href="https://instagram.com/fran_souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran_souza" height="30" width="40" /></a>
 
-## Cursos Livres
-- Excel, Senac Americana [24h]
-- Excel Avançado, Senac mericana [36h]
-- Primeiro Socorros
-- Brigadista
-- Secretariado
+</p>
 
-## Tecnologias
-- HTML
-- CSS
-- JAVASCRIPT
-- PHOTOSHOP
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
