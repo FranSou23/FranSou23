@@ -1,16 +1,26 @@
-### Hi there 👋
+ # Francislene Menezes de Souza
+ ![alt text](fran-image.png)
+ ### francislenefms@gmail.com.br - (19)99446-8547
+ #### Endereço: Rua João Missio nº 453 
+ #### Bairro: Campo Limpo - Americana SP
 
-<!--
-**FranSou23/FranSou23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ > "Em algum lugar, algo inchrivel está esperando para ser descoberto." - Carls Sagan
 
-Here are some ideas to get you started:
+### Objetivo: Dev Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Escolaridade
+- Pacote Officer completo
+- Tecnico em Informatica, Senac Americana[2023-2025]
+
+## Cursos Livres
+- Excel, Senac Americana [24h]
+- Excel Avançado, Senac mericana [36h]
+- Primeiro Socorros
+- Brigadista
+- Secretariado
+
+## Tecnologias
+- HTML
+- CSS
+- JAVASCRIPT
+- PHOTOSHOP
